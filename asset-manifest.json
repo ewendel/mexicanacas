@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5eeab774.chunk.css",
+    "main.js": "/static/js/main.e8515256.chunk.js",
+    "main.js.map": "/static/js/main.e8515256.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fb82294c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fb82294c.js.map",
+    "static/css/2.6414bb7b.chunk.css": "/static/css/2.6414bb7b.chunk.css",
+    "static/js/2.b164d10e.chunk.js": "/static/js/2.b164d10e.chunk.js",
+    "static/js/2.b164d10e.chunk.js.map": "/static/js/2.b164d10e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2c5f0b58c54b228329059926571c339e.js": "/precache-manifest.2c5f0b58c54b228329059926571c339e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.6414bb7b.chunk.css.map": "/static/css/2.6414bb7b.chunk.css.map",
+    "static/css/main.5eeab774.chunk.css.map": "/static/css/main.5eeab774.chunk.css.map",
+    "static/js/2.b164d10e.chunk.js.LICENSE.txt": "/static/js/2.b164d10e.chunk.js.LICENSE.txt",
+    "static/media/LosMex.svg": "/static/media/LosMex.bb00ec5b.svg",
+    "static/media/LosProv.svg": "/static/media/LosProv.8cf7a626.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb82294c.js",
+    "static/css/2.6414bb7b.chunk.css",
+    "static/js/2.b164d10e.chunk.js",
+    "static/css/main.5eeab774.chunk.css",
+    "static/js/main.e8515256.chunk.js"
+  ]
+}
